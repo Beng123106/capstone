@@ -6,3 +6,5 @@ Documents all of pygames functions/methods, useful resource to have. Very overwh
 
 Video: OOP for beginners by TechWithTim https://www.youtube.com/watch?v=JeznW_7DlB0
 i suck at OOP so this should help catch me up
+
+
