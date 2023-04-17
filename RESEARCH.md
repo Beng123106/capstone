@@ -1,5 +1,6 @@
-Video: Pygame in 90 Minutes by TechWithTim https://www.youtube.com/watch?v=jO6qQDNa2UY&t=1s
+Video: Pygame in 90 Minutes by TechWithTim https://www.youtube.com/watch?v=jO6qQDNa2UY&t=1s  
 wanted to figure out how pygame even works  
+
 April 14:
 * pretty good video, got around 45 minutes 
 
