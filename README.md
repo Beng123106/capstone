@@ -5,4 +5,9 @@
 4.  I will be making this game using pygame
 
 April 6:  
-I will continue learning pygame over the long weekend
+* I will continue learning pygame over the long weekend
+
+April 14:
+* learn how to create a 'character' and actually move it with arrow keys
+
+
