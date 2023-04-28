@@ -11,5 +11,8 @@ Video: OOP for beginners by TechWithTim https://www.youtube.com/watch?v=JeznW_7D
 i suck at OOP so this should help catch me up
 
 https://www.youtube.com/watch?v=M6e3_8LHc7A
-how to work with sprites and stuff 
+how to work with sprites and stuff  
+
+https://www.youtube.com/watch?v=W-QOtdD3qx4
+another pygame tutorial
 
